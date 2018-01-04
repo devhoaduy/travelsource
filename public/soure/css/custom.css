@@ -1,0 +1,78 @@
+.search-tabs-bg > .tabbable > .nav-tabs > li > a:hover > .fa {
+    background: #15bce4;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    -ms-transition: 0.3s;
+    transition: 0.3s;
+}
+.btn-group-select-num >.btn.active, .btn-group-select-num >.btn.active:hover {
+    background: #15bce4;
+    border-color: #292770;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fff;
+}
+.btn-group-select-num >.btn.active, .btn-group-select-num >.btn.active:hover {
+    background: #15bce4;
+    border-color: #292770;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    color: #fff;
+}
+.btn-primary:hover {
+    background: #15bce4;
+    border-color: #292770;
+}
+.btn-primary {
+    background: #15bce4;
+    border-color: #15bce4;
+}
+box-icon, [class^="box-icon-"], [class*=" box-icon-"] {
+    z-index: 2;
+    position: relative;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    display: block;
+    background: #15bce4;
+    color: #fff;
+    -webkit-transition: 0.3s;
+    -moz-transition: 0.3s;
+    -o-transition: 0.3s;
+    -ms-transition: 0.3s;
+    transition: 0.3s;
+}
+
+.box-icon:hover, [class^="box-icon-"]:hover, [class*=" box-icon-"]:hover {
+    background: #15bce4;
+    color: #fff;
+}
+.text-color {
+    color: #15bce4!important;
+}
+::selection {
+    background: #15bce4;
+    color: #fff;
+}
+.header-top {
+    padding: 10px 0;
+    background-color:#fff;
+}
+.main-header-search .form-control {
+    margin-bottom: 0;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    background: #fff;
+    border-color: #000;
+    color: #fff;
+}
+.top-user-area .top-user-area-list > li > a:hover {
+    color: #292870;
+}
+
+.main-header-search .input-icon {
+    top: 0;
+    color: #292870;
+}.top-user-area .top-user-area-list > li > a {    color: #428bca;}

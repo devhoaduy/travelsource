@@ -1,0 +1,7 @@
+# cache images và flash 30 ngày
+#<FilesMatch ".(flv|gif|jpg|jpeg|png|ico|swf)$">
+#Header set Cache-Control "max-age=2592000"
+#</FilesMatch>
+
+RewriteEngine On
+RewriteRule ^(.*)/$ index.php[L]
